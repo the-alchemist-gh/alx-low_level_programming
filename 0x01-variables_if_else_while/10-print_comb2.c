@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Prints numbers between 00 to 99.
  *
@@ -8,7 +7,7 @@
 int main(void)
 {
 	int i, e;
-	
+
 	i = 48;
 	e = 48;
 
